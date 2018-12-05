@@ -15,4 +15,4 @@ Individual Project of MSBD5001
 
 <-How to run code->: run the code in Python environment and remember to change the paths of data files(trainnew.csv & test.csv)!!
   
-
+<-Prediction Result of code->: The prediction result is saved in a csv file named "5001test54.csv"
